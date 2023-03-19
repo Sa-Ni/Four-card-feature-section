@@ -25,7 +25,7 @@ header {
     margin: 60px auto;
 }
 
-header>h2{
+header>h1{
     font-weight: 200;
     font-size: 24px;
     line-height: 36px;
@@ -34,7 +34,7 @@ header>h2{
     opacity: 0.8;
 }
 
-header>h3 {
+header>h2 {
     font-weight: 600;
     font-size: 24px;
     line-height: 36px;
@@ -88,7 +88,7 @@ header>h3 {
     border-top: 3.55px solid #549EF2;
 }
 
-h1 {
+h3 {
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
@@ -132,13 +132,13 @@ img {
         height: 168px;
     }
     
-    header>h2{
+    header>h1{
         font-size: 36px;
         line-height: 54px;
         letter-spacing: 0.25px;
     }
     
-    header>h3 {
+    header>h2 {
         font-size: 36px;
         line-height: 54px;
         letter-spacing: 0.25px;
